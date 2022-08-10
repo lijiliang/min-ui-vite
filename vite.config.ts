@@ -1,6 +1,7 @@
 import {defineConfig} from 'vite'
 import vue from '@vitejs/plugin-vue'
 import vueJsx from '@vitejs/plugin-vue-jsx'
+import Unocss from "./config/unocss";
 
 const rollupOptions = {
 
@@ -20,7 +21,9 @@ export default defineConfig({
     // 添加JSX插件
     vueJsx({
       // options are passed on to @vue/babel-plugin-jsx
-    })
+    }),
+     // 添加UnoCSS插件
+     Unocss()
   ],
 
   // 添加库模式配置
