@@ -4,10 +4,10 @@
 <img src="https://github.com/lijiliang/min-ui-vite/blob/main/assets/logo.jpeg" style="width:20%;" />
 </p>
 
-<h1 align="center">Smarty-Admin-UI</h1>
+<h1 align="center">Min-UI</h1>
 
 <p align="center">
-五脏俱全的组件库教学模型
+组件库
 </p>
 
 <p align="center">
@@ -33,21 +33,13 @@
 <img src="https://github.com/smarty-team/smarty-admin/blob/main/assets/demo.gif" style="width:80%;" />
 
 ## Quick Start
-希望尽快上手 Smarty-UI，可以浏览 [Getting Started](https://smarty-admin.vercel.app/).
+希望尽快上手 Min-UI，可以浏览 [Getting Started](https://smarty-admin.vercel.app/).
 
 
 ## Browser Support
 
 Modern browsers and Internet Explorer 10+.
 
-## Join Discussion Group
-
-Scan the QR code using [Dingtalk App](https://www.dingtalk.com/) to join in discussion group :
-
-<img alt="Join Discusion Group" src="https://github.com/smarty-team/smarty-admin/blob/main/assets/dingding.jpeg" width="300">
-
 
 ## LICENSE
 [MIT](../../LICENSE)
-
-Copyright (c) 2022 - present Ran (Joseph) Xia
