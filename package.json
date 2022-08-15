@@ -1,10 +1,9 @@
 {
-  "name": "smarty-ui-vite",
+  "name": "min-ui-vite",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
-  "module": "./dist/smarty-ui.esm.js",
-  "homepage": "https://smarty-admin.vercel.app/",
+  "module": "./dist/min-ui.esm.js",
   "scripts": {
     "dev": "vite",
     "build": "pnpm build:components",

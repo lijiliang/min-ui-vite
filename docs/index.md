@@ -1,4 +1,4 @@
-# 🔨 Smarty-UI是什么?
+# 🔨 Min-UI是什么?
 
 一个Mini版的组件库，基于Vite栈。为需要学习前端工程化的同学搭建的组件库搭建教学模型。
 ## Features
@@ -16,14 +16,14 @@
 ## Install
 
 ```bash
-npm i smarty-admin-ui
+npm i min-admin-ui
 ```
 
 ## Quick Start
 
 ```js
     import Vue from 'vue'
-    import SmartyUI from 'element-ui'
+    import minUI from 'element-ui'
 
     const App = {
         template: `
@@ -32,7 +32,7 @@ npm i smarty-admin-ui
     };
 
     createApp(App)
-        .use(SmartyUI)
+        .use(minUI)
         .mount("#app");
 
 ```
@@ -45,6 +45,6 @@ Modern browsers and Internet Explorer 10+.
 
 Scan the QR code using [Dingtalk App](https://www.dingtalk.com/) to join in discussion group :
 
-<img alt="Join Discusion Group" src="https://github.com/smarty-team/smarty-admin/blob/main/assets/dingding.jpeg" width="300">
+<img alt="Join Discusion Group" src="https://github.com/lijiliang/min-ui-vite/blob/main/assets/dingding.jpeg" width="300">
 
 

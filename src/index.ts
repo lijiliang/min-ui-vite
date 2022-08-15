@@ -2,7 +2,7 @@
 // console.log(s);
 
 import { createApp } from "vue/dist/vue.esm-browser";
-import SmartyUI from "./entry";
+import MinUI from "./entry";
 
 // import SButton from "./button";
 // import SFCButton from "./SFCButton.vue";
@@ -64,7 +64,7 @@ createApp({
      </div>
         `,
 })
-  .use(SmartyUI)
+  .use(MinUI)
   // createApp(SFCButton)
   // createApp(JSXButton)
   .mount("#app");

@@ -28,8 +28,8 @@ export const config = {
     brotliSize: true, // 生成压缩大小报告
     lib: {
       entry: "./src/entry.ts",
-      name: "SmartyUI",
-      fileName: "smarty-ui",
+      name: "MinUI",
+      fileName: "min-ui",
       formats: ["esm", "umd", "iife"], // 导出模块类型
     },
     outDir: "./dist",
